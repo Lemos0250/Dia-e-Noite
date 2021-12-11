@@ -1,0 +1,35 @@
+body {
+    background-color:aqua;
+    font:normal 15pt Arial ;
+}
+
+header {
+    color:black;
+    text-align: center;
+}
+
+section {
+    background-color:white;
+    border-radius: 50px;
+    padding:15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 10px 10px 10px black;
+}
+
+img {
+    border-radius: 10px;
+}
+
+div {
+    text-align: center;
+    padding: 8px;
+    border: 10cm
+}
+
+footer {
+    color:black;
+    text-align: center;
+    font-style: italic;
+
+}
